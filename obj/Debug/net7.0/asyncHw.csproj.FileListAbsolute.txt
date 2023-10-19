@@ -1,0 +1,15 @@
+C:\Users\arkin\Desktop\C#PROJECTS\asyncHw\bin\Debug\net7.0\asyncHw.exe
+C:\Users\arkin\Desktop\C#PROJECTS\asyncHw\bin\Debug\net7.0\asyncHw.deps.json
+C:\Users\arkin\Desktop\C#PROJECTS\asyncHw\bin\Debug\net7.0\asyncHw.runtimeconfig.json
+C:\Users\arkin\Desktop\C#PROJECTS\asyncHw\bin\Debug\net7.0\asyncHw.dll
+C:\Users\arkin\Desktop\C#PROJECTS\asyncHw\bin\Debug\net7.0\asyncHw.pdb
+C:\Users\arkin\Desktop\C#PROJECTS\asyncHw\obj\Debug\net7.0\asyncHw.csproj.AssemblyReference.cache
+C:\Users\arkin\Desktop\C#PROJECTS\asyncHw\obj\Debug\net7.0\asyncHw.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\arkin\Desktop\C#PROJECTS\asyncHw\obj\Debug\net7.0\asyncHw.AssemblyInfoInputs.cache
+C:\Users\arkin\Desktop\C#PROJECTS\asyncHw\obj\Debug\net7.0\asyncHw.AssemblyInfo.cs
+C:\Users\arkin\Desktop\C#PROJECTS\asyncHw\obj\Debug\net7.0\asyncHw.csproj.CoreCompileInputs.cache
+C:\Users\arkin\Desktop\C#PROJECTS\asyncHw\obj\Debug\net7.0\asyncHw.dll
+C:\Users\arkin\Desktop\C#PROJECTS\asyncHw\obj\Debug\net7.0\refint\asyncHw.dll
+C:\Users\arkin\Desktop\C#PROJECTS\asyncHw\obj\Debug\net7.0\asyncHw.pdb
+C:\Users\arkin\Desktop\C#PROJECTS\asyncHw\obj\Debug\net7.0\asyncHw.genruntimeconfig.cache
+C:\Users\arkin\Desktop\C#PROJECTS\asyncHw\obj\Debug\net7.0\ref\asyncHw.dll
