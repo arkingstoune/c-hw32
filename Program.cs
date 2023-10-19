@@ -5,7 +5,7 @@ cts.Token.Register(() => Console.WriteLine("cancelation Requsted"));
 const int sometime = 3000; 
 SomeMethod();
 Console.WriteLine("please press a number 1 if you want to work with CancellationToken and 0 to continue without breaking");
-int a = 1;//int.Parse(Console.ReadLine());
+int a = int.Parse(Console.ReadLine());
 //______________
 Sleep sleep = await Sleepingasync();//...........
 Work work = await Workingasync();//..............
@@ -24,8 +24,7 @@ async Task SomeMethod()// method works not in the main thread
 
 
 //_______________
-//if(a == 1) 
-cts.Cancel();
+if(a == 1) cts.Cancel();//changing token data
 //_______________
 async Task<Sleep> Sleepingasync()//  we have created async method
 {
@@ -47,11 +46,11 @@ async Task<Rest> GettingRestasync()
 }
 async Task<Wake> WakingUpasync(CancellationToken token)
 {
-    try
+    try // creating try catch 
     {
         //token.ThrowIfCancellationRequested();
         if(token.IsCancellationRequested)
-            throw new OperationCanceledException();
+            throw new OperationCanceledException();// throwing new execption
         Console.WriteLine("waking up...");
         await Task.Delay(sometime);
     }
